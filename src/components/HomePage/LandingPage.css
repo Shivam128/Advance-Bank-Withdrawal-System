@@ -1,0 +1,43 @@
+.landing{
+    height: 82vh;
+    width: 99vw;
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 7px 8px 8px  rgba(56, 85, 211, 0.3) ;
+    background-color: rgb(241, 235, 235);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -0.5rem;
+    transform: translate(-50%, -50%);
+
+    
+  }
+
+  .card2{
+
+    display: flex;
+    width: 100%;
+    align-items:center;
+    justify-content: space-evenly;
+    margin-top: 4rem;
+
+   
+  
+  }
+  .card1{
+ 
+    display: flex;
+    width: 50vw;
+    align-items:flex-start;
+    justify-content: space-around;
+   
+  
+  }
+  
+  .homeheading{
+    text-align:center;
+   margin-top:3rem;
+  font-size:3.5rem;
+  font-family:sans-serif;
+  color:#333;
+  }
